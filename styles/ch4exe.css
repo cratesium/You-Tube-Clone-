@@ -1,0 +1,22 @@
+.class1{
+    margin-left: 20px;
+    margin-top: 7px;
+    margin-right: 20px;
+  cursor: pointer;
+  background-color: green;
+  color: white;
+  font-size: 21px;
+  padding-top: 12px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 12px;
+  border: none;
+  transition: all 0.3s;
+}
+.class1:hover{
+margin-left: 14px;
+margin-right: 14px;
+padding-left:30px;
+padding-right: 30px;
+opacity: 0.7;
+}

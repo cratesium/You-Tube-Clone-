@@ -1,0 +1,43 @@
+.class1{
+    cursor: pointer;
+    background-color: green;
+    color: white;
+    font-size: 21px;
+    padding-top: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 12px;
+    border: none;
+}
+.class1transition{
+    transition:all 0.5s ;
+}
+.class1transition:hover{
+    font-size: 40px;
+    padding-top: 22px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 22px;
+    border: none;
+
+}
+
+.threedclick{
+
+    margin-left: 10px;
+    transition: all 0.3s;
+    
+}
+.threedclick:hover{
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, .3);
+    opacity: 0.8;
+}.threedclick:active{
+    opacity: 0.6;
+    font-size: 21px;
+    padding-top: 14px;
+    padding-left: 22px;
+    padding-right: 18px;
+    padding-bottom: 10px;
+
+
+}

@@ -1,0 +1,52 @@
+.backtoamazon{
+    color: rgb(0, 113, 133);
+}
+.backtoamazon:hover{
+    color: rgb(255, 164, 28) ;
+}
+.backtoamazon:active{
+    color: aqua;
+}
+ .addtocart{
+    background-color: rgb(255, 216, 20);
+    color: black;
+    height: 40px;
+    border: none;
+    width: 150px;
+    font-size: 17px;
+    border-radius: 20px;
+
+    margin-right: 15px;
+   transition: all 0.2s;
+
+}.addtocart:hover{
+    opacity: .7;
+    box-shadow: 4px 4px 6px rgba(0, 0, 0, .2);
+
+}
+.addtocart:active{
+    opacity: .5;
+}
+.nike{
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
+.stock{
+    color: rgb(0, 118, 0);
+}
+.buynow{
+    background-color: rgb(255, 164, 28);
+    border: none;
+    height: 40px;
+    width: 140px;
+    border-radius: 20px;
+    font-size: 17px;
+ transition: all 0.2s;
+}.buynow:hover{
+    opacity: 0.7;
+    box-shadow: 4px 4px 6px rgba(0, 0, 0, .2);
+
+}.buynow:active{
+    opacity: .5;
+}
