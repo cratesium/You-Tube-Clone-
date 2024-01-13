@@ -52,4 +52,4 @@ If you are interested in contributing to this project, please follow these guide
 
 If you have any feedback, suggestions, or encounter issues, please feel free to open an issue in the GitHub repository. Your input is highly valuable in improving this project.
 
-Let's build an awesome YouTube clone together! 🚀
+ 
